@@ -1,19 +1,10 @@
 # Personal Home Page
 
-Welcome to my personal home page! This is my space to showcase myself.
+Welcome to my personal home page!
 
 ## About Me
 
-I'm a developer passionate about coding and exploring new technologies. I enjoy solving interesting problems and building great projects.
-
-## Tech Stack
-
-- Python
-- JavaScript
-- HTML/CSS
-- TypeScript
-- React
-- Node.js
+I am Haiyang Huang (黄海洋, he/him), a junior physics student at Fudan University, China. Now I am a student of Prof. Satoshi Nawata, on the way of becoming a theoretical physicist.
 
 ## Projects
 
@@ -21,4 +12,4 @@ Here you can view my latest projects and contributions on GitHub.
 
 ## Contact
 
-If you're interested in my projects or have any questions, feel free to contact me through GitHub.
+**Email**: hyhuang.phy@gmail.com
